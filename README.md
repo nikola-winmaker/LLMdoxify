@@ -1,2 +1,4 @@
 # LLMdoxify
-Generate oxygen comments for code using LLM.
+Generate doxygen comments for code using LLM.
+
+* Runpod + Dockerhub + MPT30B
